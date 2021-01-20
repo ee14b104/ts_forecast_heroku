@@ -1,1 +1,1 @@
-web: sh -c 'cd ./python-flask-server-generated && python swagger_server'
+web: sh -c 'python swagger_server'
